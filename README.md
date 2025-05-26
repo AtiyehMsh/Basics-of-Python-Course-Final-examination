@@ -1,0 +1,1 @@
+This repository includes my answers to final examination of the course "Basics-of-Python-course". It includes the data manipulation of data set "Spotify Song Attributes" including data cleaning, data analysis, data visualization
